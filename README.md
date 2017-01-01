@@ -3,8 +3,8 @@
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
 
-* [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
-* [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
+* [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github) | Updated 2016-11-30
+* [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github) | MAJ 2016-12-12
 
 ## Contributing
 
