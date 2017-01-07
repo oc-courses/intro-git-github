@@ -16,4 +16,4 @@ Course homepage:
 
 ## How to say Hello
 	You have to create a folder hello.md where  the sing "Hello!" will be and after that you may save the file in doing esc+ :x .  You just have now to tap cat hello.md and it's finish! :)
-
+         Have a nice week end :) :)
