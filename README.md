@@ -5,6 +5,7 @@ Course homepage:
 
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
 * [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
+* [Spanish version] (https://openclassroom.com/administrar-su-codigo-con-git-y-github)
 
 ## Contributing
 
@@ -13,3 +14,4 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+6. Suggest your idea
