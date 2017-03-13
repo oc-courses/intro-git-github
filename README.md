@@ -6,6 +6,8 @@ Course homepage:
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
 * [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
 
+#Added a comment for the OpenClassrooms lessons 
+
 ## Contributing
 
 1. Fork it
