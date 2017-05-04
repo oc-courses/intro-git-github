@@ -13,3 +13,12 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## Version Française
+
+1. Fork it
+2. Créer une nouvelle branche de travail (`git checkout -b ma_branche`)
+3. 'Committer' vos modifications (`git commit -am 'Explication de mes modifs'`)
+4. Renvoyer vos modifications sur github (origin) (`git push origin my-new-feature`)
+5. Créer une nouvelle demande de modification (Pull Request)
