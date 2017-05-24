@@ -15,3 +15,5 @@ Course homepage:
 5. Create new Pull Request
 
 to comment on a blog article, srcoll down and write in the field "Leave a comment"
+
+shoosh
