@@ -13,3 +13,8 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+### Alex modif
+
+Modif Readme.md uniquement, avec l'ajout de cette line ^^
