@@ -1,0 +1,28 @@
+This is a description for OCR
+
+How contributing on open source project ?
+
+You have to Fork a repo on your profil with "Fork"
+
+When you fork it you have to clone it on your Git
+
+Read README.md for know how contribute on this project
+
+Make your new branch
+
+1. git checkout -b "my-new-feature"
+
+Make your commits
+2. git commit -m "Added feature allowing users to comment on the blog articles"
+
+Send your modifications on GitHub
+3. git push origin "my-new-feature"
+
+WARNING !
+
+Don't do "git push origin master": this is not your principal branch !
+You have to put your new branch "my-new-feature" than you want to send on GitHub
+
+Exemple : My new branch as named "readme-update", for send my modifications on Github i'll made"git push origin readme-update", not "git push origin "master"
+
+Good luck ! :)
