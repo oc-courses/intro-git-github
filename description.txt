@@ -1,0 +1,10 @@
+This is a description for OCR
+
+How contributing on open source project ?
+
+You have to Fork a repo on your profil with "Fork"
+
+When you fork it you have to clone it on your Git
+
+Read README.md for know how contribute on this project
+
