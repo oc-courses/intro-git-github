@@ -14,4 +14,4 @@ Course homepage:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 6. Added new feature
-7. content
+7. contentu
