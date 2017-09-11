@@ -1,0 +1,1 @@
+Ceci est un fichier de test pour expérimenter la participation à un projet OpenSource dans le cadre du cours OpenClassrooms portant sur Git et GitHub.
