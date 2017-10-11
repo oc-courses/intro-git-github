@@ -13,3 +13,7 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+This is my contrubution for course on Git and GitHub.
+
+Thanks to all the team of Open ClassRoom.
