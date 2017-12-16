@@ -13,3 +13,7 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+thank you, i would like to use Git and Github for my projet. I want de create a application iOS for a shop.
+
+Thanks again
