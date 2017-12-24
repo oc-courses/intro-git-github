@@ -7,6 +7,8 @@ Course homepage:
 * [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
 
 ## Contributing
+ user : test1
+ password: IamDone
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
