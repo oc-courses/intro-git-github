@@ -18,5 +18,5 @@ Course homepage:
 ## Remind
 
 For creating a new branch and after work on it, you can also do this:
-	1. Create the branch :`git branch branch-name`
-	2. Work on the branc: `git checkout branch-name`
+1. Create the branch :`git branch branch-name`G
+2. Work on the branc: `git checkout branch-name`
