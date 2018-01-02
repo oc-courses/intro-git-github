@@ -10,6 +10,11 @@ Course homepage:
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
+### Remind
+For creating a new branch you can also do this:
+1. create a new branch: `git branch branch-name
+2. select and work on the branch-name : `git checkout branch-name`
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
