@@ -6,7 +6,7 @@ Course homepage:
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
 * [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
 
-## Contributing
+## Contributing - Demo project
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
