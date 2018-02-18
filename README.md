@@ -1,6 +1,6 @@
 # intro-git-github
 
-This is an demo project used in the OpenClassrooms course on Git and GitHub.
+This is my first try on a demo project used by OpenClassrooms's students for the subject "Git and GitHub: Introduction".
 Course homepage:
 
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
@@ -8,8 +8,8 @@ Course homepage:
 
 ## Contributing
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+1. firstly you should: Fork it
+2. secondly: Create your feature branch (`git checkout -b my-new-feature`)
+3. thirsly : Commit your changes (`git commit -am 'Add some feature'`)
+4. for the fourth times: Push to the branch (`git push origin my-new-feature`)
+5. and finally: Create new Pull Request
