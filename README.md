@@ -1,6 +1,6 @@
 # intro-git-github
 
-This is an demo project used in the OpenClassrooms course on Git and GitHub.
+This is an demo project used in the OpenClassrooms course on Git and GitHub. This is very interesting !
 Course homepage:
 
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
