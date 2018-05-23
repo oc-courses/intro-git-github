@@ -1,4 +1,4 @@
-# intro-git-github
+# introducing git with github's practice
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
