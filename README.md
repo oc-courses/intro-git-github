@@ -1,4 +1,4 @@
-# intro-git-github
+# intro-git-github from Daviprof
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
