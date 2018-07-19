@@ -1,6 +1,7 @@
 # intro-git-github
 
-This is an demo project used in the OpenClassrooms course on Git and GitHub.
+This is an demo project used in the OpenClassrooms (previously called the Zero's site) course 
+on Git and GitHub.
 Course homepage:
 
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
