@@ -17,5 +17,5 @@ Course homepage:
 
 
 
-And I am....... GUI LEC !!!!!!
+I am ....... GUI LEC !!!!!!
 
