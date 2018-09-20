@@ -1,4 +1,4 @@
-# intro-git-github
+# Readme intro-git-hub
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
