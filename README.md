@@ -3,6 +3,8 @@
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
 
+this is a modify version of the readme file. I did it just to learn how to contribute to open source project.
+
 * [English version](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
 * [French version](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
 
