@@ -1,5 +1,5 @@
 # intro-git-github
-ajout most after ssh key
+ajout most after ssh key  -> modifié coté serveur
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
 
