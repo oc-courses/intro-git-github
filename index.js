@@ -1,1 +1,2 @@
-alert("Hello world !")
+alert("Hello world !");
+prompt("Rentrez votre nom :");
