@@ -1,0 +1,5 @@
+def decomposer(entier, diviser_par):
+	p_e = entier // diviser_par
+	reste = entier % diviser_par
+	return p_e, reste
+
