@@ -1,26 +1,36 @@
-Git_GitHub_Partie3_Activite
+# Git_GitHub_Partie3_Activite
 
-Consigne:
+## Consigne:
 
-L'objectif est d'expliquer 3 concepts de git pour un développeur web qui ne connait pas GIT.
+Le but est d'expliquer trois concepts de GIT pour un ami développeur web qui ne connait pas GIT.
 
-Qu'est-ce qu'un commit;
-À quoi sert la commande git log;
-Qu'est-ce qu'une branche.
-Contenu de l'exercice
-Introduction
-Il ne s'agit pas ici de revenir sur ce qu'est git ou pourquoi l'utiliser, mais j'aimerais ajouter ce petit complément sous forme de fichier README.md, fichier important dans un "repository" car c'est celui qui va donner la première impression du contenu d'un projet géré sur Github.
+### Qu'est-ce qu'un commit
 
-La documentation est souvent le maillon manquant entre les développeurs et les utilisateurs, et ce fichier contribue à créer ce lien, en indiquant le contenu d'un projet et en renvoyant vers les principales informations et documentations accessibles aux utilsateurs comme à d'autres développeurs.
+    git commit
 
-Quelque peu frustré par l'accès aux vidéos, qui avec ma version d'ubuntu et de flash fonctionnent bien sur Vimeo mais pas sur OpenClassrooms (pratique...), je privilégie pour cette exercice la forme texte la plus simple, le contenu de l'exercice étant ici rédigé avec nano et gedit sous la forme de fichiers README.md
+### À quoi sert la commande git log
 
-L'export PDF sera fait en fin de rédaction sous LibreOffice Writer, par copier-coller des parties ci-dessous depuis le rendu sur Github https://github.com/Facyla/mooc-openclassrooms-github/blob/master/partie3/README.md
-Le résultat sera alors intégré au repository : https://github.com/Facyla/mooc-openclassrooms-github/blob/master/partie3/Exercice.pdf
-Et l'export zip du repository finalement publié sur OpenClassrooms : https://github.com/Facyla/mooc-openclassrooms-github/archive/master.zip
+    git log
+    
+### Qu'est-ce qu'une branche
 
-Qu'est-ce qu'un commit ?
-Git est un outil de suivi de versions, qui permet de "suivre" les modifications apportées aux fichiers indexés dans un projet.
+    git branch develop
+
+## Introduction:
+
+Pour rappel : GIT est un outil de "Versioning" (suivi de versions), qui permet de "suivre" les modifications apportées aux fichiers indexés dans un projet.
+
+Tout d'abord, comme nous allons tenter d'expliquer le fonctionnement de GIT, j'ai crée dans une branche "develop", un fichier README.md, (fichier important dans un "dépôt" GIT car c'est celui qui va donner le contenu d'un projet géré sur GITHUB)
+
+Tous les fichiers demandés sont intégrés au repository "intro-git-github" :
+
+-https://github.com/NLshaen/intro-git-github/edit/develop/Git_GitHub_Partie3_Activite.md
+-https://github.com/NLshaen/intro-git-github/edit/develop/Git_GitHub_Partie3_Activite.pdf
+-https://github.com/NLshaen/intro-git-github/edit/develop/Git_GitHub_Partie3_Activite.zip
+
+### Qu'est-ce qu'un commit ?
+
+    git commit
 
 Pour expliquer ce qu'est un commit, reprenons la petite séquence suivante qui permet de créer un nouveau commit :
 
@@ -44,15 +54,21 @@ Par comparaison avec l'état précédent du projet, un commit peut être consid�
 
 Un commit peut aussi bien consister en la modification d'un seul caractère, qu'en l'ajout d'une librairie complète au projet., cela ne dépend que de la manière de les utiliser !
 
-À quoi sert la commande git log ?
+### À quoi sert la commande git log ?
+
+    git log
+    
 La commande "git log" permet d'afficher la liste des derniers commits, c'est-à-dire l'historique des dernières modifications.
 
 Cette liste précise l'auteur, la date et le commentaire associé à chacun des commits, et dispose de diverses options qui permettent d'affiner les résultats sur une période ou un répertoire précis, afin de "voir ce qui s'est passé récemment" dans un répertoire précis.
 
 C'est donc une commande informative, qui ne modifie rien... elle est tout à fait comparable à un tail sur un fichier de log apache.
 
-Qu'est-ce qu'une branche ?
-Une branche ou "fork" est une dérivation à partir du "tronc commun" d'un projet, avec lequel elle peut ensuite être fusionnée.
+### Qu'est-ce qu'une branche ?
+
+    git branch develop
+
+Une branche est une dérivation à partir du "tronc commun" d'un projet, avec lequel elle peut ensuite être fusionnée.
 
 C'est une manière de cloisonner certains développements, comme par exemple le développement d'une nouvelle fonctionnalité ou d'un patch, mais aussi de maintenir et faire évoluer en parallèle plusieurs versions d'un même logiciel.
 
@@ -68,14 +84,19 @@ Une branche peut être ensuite tout simplement abandonnée, ou fusionnée avec u
 
 Le processus de création, travail et fusion d'une branche peut être résumé avec les commande suivantes :
 
-Créer une nouvelle branche et se positionner dessus
-git checkout -b ma_branche
+Créer une nouvelle branche "develop" (pour du development) et on vient se positionner sur la branche "develop"
+
+    git checkout -b develop
+
 On travaille ensuite normalement dans "ma_branche", les commits étant dès lors enregistrés dans cette branche.
 
 Pour changer de branche, on utilise
-git checkout autre_branche
+
+    git checkout master
 
 Une fois le travail dans une branche terminé, on se repositionne sur la branche d'origine pour y intégrer son travail
-git checkout master
-git merge ma_branche
+
+    git checkout master
+    git merge develop
+    
 Il est également possible de fusionner "l'avancée" de la branche master dans sa branche de travail, ou dans une autre branche.
