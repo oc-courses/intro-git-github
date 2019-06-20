@@ -24,9 +24,9 @@ Tout d'abord, comme nous allons tenter d'expliquer le fonctionnement de GIT, j'a
 
 Tous les fichiers demandés sont intégrés au repository "intro-git-github":
 
- -https://github.com/NLshaen/intro-git-github/edit/develop/Git_GitHub_Partie3_Activite.md
- -https://github.com/NLshaen/intro-git-github/edit/develop/Git_GitHub_Partie3_Activite.pdf
- -https://github.com/NLshaen/intro-git-github/edit/develop/Git_GitHub_Partie3_Activite.zip
+ 1. https://github.com/NLshaen/intro-git-github/blob/develop/Git_GitHub_Partie3_Activite.md
+ 2. https://github.com/NLshaen/intro-git-github/blob/develop/Git_GitHub_Partie3_Activite.pdf
+ 3. https://github.com/NLshaen/intro-git-github/blob/develop/Git_GitHub_Partie3_Activite.zip
 
 ### Qu'est-ce qu'un commit ?
 
