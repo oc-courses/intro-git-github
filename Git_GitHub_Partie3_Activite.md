@@ -22,7 +22,7 @@ Pour rappel : GIT est un outil de "Versioning" (suivi de versions), qui permet d
 
 Tout d'abord, comme nous allons tenter d'expliquer le fonctionnement de GIT, j'ai crée dans une branche "develop", et dans cette branche , un fichier README.md (fichier important dans un "dépôt" GIT car c'est celui qui va donner le contenu d'un projet géré sur GITHUB)
 
-Tous les fichiers demandés sont intégrés au repository "intro-git-github":
+Tous les fichiers demandés sont intégrés au repository "intro-git-github" dans la branche "develop":
 
  1. https://github.com/NLshaen/intro-git-github/blob/develop/Git_GitHub_Partie3_Activite.md
  2. https://github.com/NLshaen/intro-git-github/blob/develop/Git_GitHub_Partie3_Activite.pdf
