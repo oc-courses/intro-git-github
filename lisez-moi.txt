@@ -1,0 +1,17 @@
+# intro-git-github
+
+Ceci est un exemple de projet utilisé dans le cours "Git and GitHub." de OpenClassrooms
+
+Pour accéder au cours : 
+
+* [version anglaise](https://openclassrooms.com/courses/manage-your-code-with-git-and-github)
+* [version française](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)
+
+## Pour contribuer : 
+
+1. Effectuer un "fork" du projet
+2. Créer votre propre branche (`git checkout -b my-new-feature`)
+3. Valider vos modifications (`git commit -am 'Add some feature'`)
+4. Envoyer votre branche  (`git push origin my-new-feature`)
+5. Effectuer une requête de contribution (Pull Request)
+
