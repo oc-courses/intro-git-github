@@ -13,3 +13,8 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+6. I did, and this is my my new file.
+7. Check and let me know
+8. Thanks for all.
+9. Good bye.
+10. Ancestor bless
