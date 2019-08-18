@@ -13,3 +13,7 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## This is a modification brought by Thibault on August 18th 2019
+
+This is a test about pull request.
