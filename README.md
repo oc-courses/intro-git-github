@@ -1,4 +1,5 @@
 # intro-git-github
+## Pull Request standard actions to follow
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
