@@ -1,4 +1,5 @@
 # intro-git-github
+# now I know how to contribute to a project on Github, something I didn't know before
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
