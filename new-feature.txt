@@ -1,0 +1,1 @@
+This new feature allows to test pull requests 
