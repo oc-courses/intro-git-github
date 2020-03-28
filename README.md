@@ -1,5 +1,7 @@
 # intro-git-github
 
+--MODIFIE VAL
+
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
 
