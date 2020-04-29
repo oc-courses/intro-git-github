@@ -13,3 +13,6 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+##Mofification dans la cadre du cours de OC sur git
+Je vous remercie pour cette source intarissable de connaissances, qu'est votre site OpenClassroms
