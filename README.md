@@ -1,4 +1,5 @@
 # intro-git-github
+# Merci pour ce cours
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
