@@ -1,0 +1,1 @@
+il existe de nombreuses façons de préparer du café, mais vous pouvez employer certaines astuces pour faire du café excellent. Si vous n’avez pas de cafetière électrique, ne vous en faites pas. Vous pouvez tout de même vous faire un bon café avec un filtre placé au-dessus d’une tasse, une cafetière à piston ou même un torchon et une tasse ! 
